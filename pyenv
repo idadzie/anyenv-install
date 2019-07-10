@@ -1,0 +1,4 @@
+install_env https://github.com/pyenv/pyenv.git
+install_plugin pyenv-virtualenv https://github.com/pyenv/pyenv-virtualenv.git
+install_plugin pyenv-update https://github.com/pyenv/pyenv-update.git
+install_plugin pyenv-pip-migrate https://github.com/pyenv/pyenv-pip-migrate.git
