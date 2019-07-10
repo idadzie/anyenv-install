@@ -4,6 +4,20 @@ Default install manifests for [anyenv](https://github.com/anyenv/anyenv).
 
 
 
+## Initialize install manifest directory
+
+You can initialize install manifest directory with:
+
+```bash
+# SSH
+anyenv install --init git@github.com:idadzie/anyenv-install.git
+
+# HTTPS
+anyenv install --init https://github.com/idadzie/anyenv-install.git
+```
+
+
+
 ## Example
 
 For example, `rbenv`:
